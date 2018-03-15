@@ -4,3 +4,5 @@ dist
 package-lock.json
 .DS_Store
 returnFlow
+main.js
+bundle.js
